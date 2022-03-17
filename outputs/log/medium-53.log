@@ -1,0 +1,13 @@
+4623.42
+Task Sequence (1-indexed): 82 27 47 124 64 67 70 121 105 51 112 95 18 90 84 98 36 101 37 38 68 86 1 48 19 116 115 83 34 125 29 106 14 111 42 71 80 3 33 30 93 113 28 24 104 44 89 76 69 75 79 103 60 63 25 20 59 55 12 52 15 50 9 100 41 91 119 10 11 45 22 110 39 2 61 72 16 66 109 49 88 5 81 118 56 114 97 74 57 8 108 120 62 43 107 32 54 117 73 31 77 123 13 7 53 46 21 122 26 65 40 23 87 94 4 78 85 58 99 92 6 102 35 96 17 
+
+GLOBAL NUM_THREADS == 8
+Max restarts == 0
+Temperature decay factor == 0.999
+Initial acceptance rate == 0.8
+Epoch size factor == 1
+Max epochs with no profit gain == 50
+
+Start time == Mon Nov 29 04:18:19 2021
+Stop time == Mon Nov 29 04:23:32 2021
+Elapsed time == 313 seconds
